@@ -1,0 +1,23 @@
+{
+  "utilisateur": {
+    "nom": "John Doe",
+    "âge": 30,
+    "adresse": {
+      "rue": "123 Main Street",
+      "ville": "Villeville",
+      "codePostal": "12345"
+    }
+  },
+  "commandes": [
+    {
+      "produit": "Ordinateur portable",
+      "quantité": 2,
+      "prixUnitaire": 1200
+    },
+    {
+      "produit": "Souris sans fil",
+      "quantité": 1,
+      "prixUnitaire": 30
+    }
+  ]
+}
