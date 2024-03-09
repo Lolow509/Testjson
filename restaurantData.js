@@ -196,8 +196,6 @@
 "listeMenu": [
     "Entrée",
     "Plat",
-    null,
-    null,
     "Boisson"
   ],
 "listeMontres": {
