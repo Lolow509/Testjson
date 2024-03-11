@@ -210,5 +210,47 @@
     "ziiip",
     "oooooo",
     "douu"
-  ]
+  ],
+  "photoGallery":[
+    {
+        "nom": "coffre-au-tresor.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fcoffre-au-tresor.png?alt=media&token=f08244e3-768c-4a0d-b356-d7decdbcb351"
+    },
+    {
+        "nom": "Logo AE.Cup v2 +gros noir.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2FLogo%20AE.Cup%20v2%20%2Bgros%20noir.png?alt=media&token=a715a2f9-6d2a-424a-b0ae-dacb33df7262"
+    },
+    {
+        "nom": "copywriting.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fcopywriting.jpg?alt=media&token=e4de82d8-cf7d-49c9-a8b9-b93fc9abed98"
+    },
+    {
+        "nom": "logo-stripe.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Flogo-stripe.png?alt=media&token=9d7da099-1939-4ba8-bffd-4737c8145128"
+    },
+    {
+        "nom": "snapchat.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fsnapchat.png?alt=media&token=af4f6a9c-889d-4035-9e14-82b0b74d1283"
+    },
+    {
+        "nom": "riz.jpg",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Friz.jpg?alt=media&token=a6dc177e-91c2-4201-94ef-a64125b77a5a"
+    },
+    {
+        "nom": "paypal (1).png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fpaypal%20(1).png?alt=media&token=6192791d-8989-4887-bf34-84d6a69d5092"
+    },
+    {
+        "nom": "trophy.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Ftrophy.png?alt=media&token=6e45bef3-a895-42b7-a7e6-d4a2e41d4136"
+    },
+    {
+        "nom": "secure-payment.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fsecure-payment.png?alt=media&token=251dc576-9012-422e-b76e-60f7bee12ba4"
+    },
+    {
+        "nom": "encrypted.png",
+        "url": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fencrypted.png?alt=media&token=49781f66-5b1b-4ac3-bc56-4dd4f8486baf"
+    }
+]
 }
