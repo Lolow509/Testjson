@@ -5,18 +5,19 @@
       "listElement": [
         {
           "nom": "Salade",
-          "prix": "0"
+          "prix": "0.00"
         },
         {
           "nom": "Frite",
-          "prix": "0"
+          "prix": "0.00"
         },
         {
           "nom": "Aloko",
-          "prix": "2"
+          "prix": "2.00"
         }
       ],
       "nomExtra": "Accompagnement",
+      "max":1,
       "requis": "Obligatoire"
     },
     "Boisson": {
@@ -24,19 +25,19 @@
       "listElement": [
         {
           "nom": "Eau",
-          "prix": "0"
+          "prix": "0.00"
         },
         {
           "nom": "Jus d'orange",
-          "prix": "0"
+          "prix": "0.00"
         },
         {
           "nom": "Jus de pomme",
-          "prix": "0"
+          "prix": "0.00"
         },
         {
           "nom": "Vin rouge",
-          "prix": "7"
+          "prix": "7.00"
         },
         {
           "nom": "Vin blanc",
@@ -44,6 +45,7 @@
         }
       ],
       "nomExtra": "Boisson",
+      "max":1,
       "requis": "Obligatoire"
     },
     "Sauce": {
@@ -51,25 +53,51 @@
       "listElement": [
         {
           "nom": "hbihkb",
-          "prix": "10"
+          "prix": "10.00"
+        },
+        {
+          "nom": "olive",
+          "prix": "3.90"
+        },
+        {
+          "nom": "Carotte",
+          "prix": "2.89"
         }
       ],
       "nomExtra": "Sauce",
+      "max":1,
       "requis": "Obligatoire"
     },
-    "baguette": {
+    "Baguette": {
       "choix": true,
       "listElement": [
         {
           "nom": "olive",
-          "prix": "3"
+          "prix": "3.00"
         },
         {
           "nom": "Carotte",
-          "prix": "2"
+          "prix": "2.50"
+        },
+        {
+          "nom": "beurre",
+          "prix": "4.00"
+        },
+        {
+          "nom": "huile",
+          "prix": "2.00"
+        },
+        {
+          "nom": "sel",
+          "prix": "1.00"
+        },
+        {
+          "nom": "poivre",
+          "prix": "0.99"
         }
       ],
       "nomExtra": "baguette",
+      "max":3,
       "requis": "Obligatoire"
     }
   },
@@ -160,7 +188,7 @@
   "Riz": {
     "categorie": "Plat",
     "description": "Un plat de riz super bon",
-    "extra": ["Boisson", "Accompagnement", "Sauce"],
+    "extra": ["Boisson", "Accompagnement", "Baguette"],
     "img": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Friz.jpg?alt=media&token=a6dc177e-91c2-4201-94ef-a64125b77a5a",
     "nom": "Riz",
     "prix": "3"
