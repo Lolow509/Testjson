@@ -160,7 +160,7 @@
   "Riz": {
     "categorie": "Plat",
     "description": "Un plat de riz super bon",
-    "extra": ["Boisson"],
+    "extra": ["Boisson", "Accompagnement", "Sauce"],
     "img": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Friz.jpg?alt=media&token=a6dc177e-91c2-4201-94ef-a64125b77a5a",
     "nom": "Riz",
     "prix": "3"
@@ -176,7 +176,7 @@
   "Trésor": {
     "categorie": "Plat",
     "description": "tresor de kellogs",
-    "extra": ["Accompagnement"],
+    "extra": ["Accompagnement", "Sauce"],
     "img": "https://firebasestorage.googleapis.com/v0/b/menuresto-24cc5.appspot.com/o/essai%2Fcoffre-au-tresor.png?alt=media&token=f08244e3-768c-4a0d-b356-d7decdbcb351",
     "nom": "Trésor",
     "prix": "13"
